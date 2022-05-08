@@ -75,8 +75,12 @@ color:white;
 .pic{
     width: 60%;
 }
-.pic > .picrow{
+.picrow{
     display: flex;
+    width: 52%;
+    margin-left: 100px;
+    
+
 }
 .content{
     border: 5px;
@@ -232,6 +236,7 @@ padding-top: 50px;
     border-radius: 0px 10px 0px 0px;
     float: right;
     margin-right: 143px;
+    margin-top: 20px;
 }
 .btnhustle > a{
     color: black;
