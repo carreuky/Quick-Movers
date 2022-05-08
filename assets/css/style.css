@@ -130,3 +130,36 @@ span{
     padding-bottom: 50px; 
     
 }
+
+
+
+/* cards */
+.cardcontainer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+
+}
+.card {
+    width: 330px;
+    background: white;
+    margin: 10px;
+    border-radius: 8px;
+
+}
+.card > h{
+    padding-left: 10px;
+    font-size: 20px;
+    margin-top: 15px;
+}
+.card > img{
+    padding-bottom: 10px;
+}
+.icon{
+    padding:0rem 3.2rem 0rem 1.2rem;
+    margin: 0rem;
+    border-right: 1px solid;
+    border-top: 1px solid;
+    border-collapse: collapse;
+}
