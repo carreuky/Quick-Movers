@@ -62,11 +62,11 @@
 .partone h1{
     color: yellow;
     margin-top: 100px;
-    font-size: 50px;
+    font-size: 40px;
 }
 .partone p{
     margin-top: 50px;
-    font-size: 35px;
+    font-size: 25px;
     color: white;
 }
 /* Section two styling */
@@ -126,6 +126,7 @@ span{
     background-size: cover;
     height: 110vh;
     padding: 100px;
+    padding-bottom: 120px;
 }
 .ourtop > h1{
     font-size: 50px; 
@@ -167,7 +168,7 @@ span{
 .footer{
     background-color:black;
     background-size: cover;
-    height:50vh;
+    height:45vh;
     background-size: 80px;
 }
 .footer > h1{
