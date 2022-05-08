@@ -60,7 +60,7 @@
     width: 45%;
 }
 .partone h1{
-    color: yellow;
+    color: #FAFF00;
     margin-top: 100px;
     font-size: 40px;
 }
@@ -118,7 +118,7 @@ span{
 }
 .hustle >.rightside >.btnhustle a{
     text-decoration: none;
-    color: yellow;
+    color: #FAFF00;
 }
 /* Section Our Top Movers styling */
 .ourtop{
@@ -180,7 +180,7 @@ span{
     
 }
 span2 {
-    color:#FFAC12;
+    color:#FAFF00;
 }
 .footer > .line{
     border-top: 0.01px solid white;
