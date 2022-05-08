@@ -203,10 +203,10 @@ padding-top: 50px;
 }
 /* Footer  */
 .footer{
-    background-color:black;
+    background-image: linear-gradient(to right top, #000000, #0C0404, #150905, #1A0E04, #1C1302);
     background-size: cover;
     height:45vh;
-    background-size: 40px;
+    
 }
 .footer > h1{
     color: white;
@@ -217,12 +217,10 @@ padding-top: 50px;
 .row{
     margin-left: 100px;
 }
-.row > a >img{
-    display:inline-block;
-    height: 30px;
+.row i {
+    color: white;
     padding: 5px;
-    justify-content: center;
-
+    padding-top: 50px;
     
 }
 .btnhustle{
@@ -255,6 +253,7 @@ span2{
     border-top: 0.01px solid white;
     margin: 30px 150px 0px 120px; 
 }
+
 .lastbit{
     display: flex;
     float: right;
@@ -267,4 +266,7 @@ span2{
     display: grid;
     margin-right: 80px;
 
+}
+li > i{
+    color: #FFAC12;
 }
