@@ -166,10 +166,9 @@ span{
 }
 /* Section footer */
 .footer{
-    background-color:black;
+    background-image: linear-gradient(to right top, #000000, #0C0404, #150905, #1A0E04, #1C1302);
     background-size: cover;
     height:45vh;
-    background-size: 80px;
 }
 .footer > h1{
     color: white;
