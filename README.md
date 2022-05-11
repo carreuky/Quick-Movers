@@ -4,10 +4,7 @@ QUICK MOVERS
 About/Description
 Quick Movers is a website for a company moving and storage, specializing in all aspects of residential and commercial moves.
 
-web-Demo
-Here is a working demonstration of this Web page: carreuky.github.io/quick-movers/
-
-The Site:
+Here is a working demonstration of this [Web page](carreuky.github.io/quick-movers)
 Installation
 Click on the provided link that will direct you to the website
 
