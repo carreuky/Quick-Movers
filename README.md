@@ -2,7 +2,7 @@
 Project done by:-
 Kelvin Nderitu
 Quick-Movers
-About/Description
+About/Description//
 Quick Movers is a website for a company moving and storage, specializing in all aspects of residential and commercial moves.
 
 web-Demo
